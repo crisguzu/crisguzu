@@ -1,16 +1,19 @@
-### 🧑‍🚀 🧑‍🚀 🧑‍🚀
+# Cristian Guzman Urrutia
 
-<!--
-**crisguzu/crisguzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Analytics Engineer | Data Engineering | AWS | AI-Enabled Analytics**
 
-Here are some ideas to get you started:
+I design and build data products, analytical applications, and AI-enabled engineering solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background includes 14+ years in analytics and business intelligence, including six years at Amazon, where I've worked on SQL/Python pipelines, behavioral data models, AWS analytics infrastructure, and enterprise reporting systems supporting global products.
+
+### Technical Focus
+
+**Data Engineering:** SQL, Python, ETL/ELT, data modeling, AWS S3, Redshift, Glue
+
+**Analytics:** Product telemetry, behavioral analytics, metrics architecture, self-service data products
+
+**AI Engineering:** LLM applications, autonomous agents, structured outputs, AI-assisted development
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/cristianguzmanu)
