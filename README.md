@@ -12,7 +12,7 @@ My background includes 14+ years in analytics and business intelligence, includi
 
 **Analytics:** Product telemetry, behavioral analytics, metrics architecture, self-service data products
 
-**AI Engineering:** LLM applications, autonomous agents, structured outputs, AI-assisted development
+**AI Engineering:** LLM applications, structured outputs, AI-assisted development
 
 ### Selected personal engineering projects
 
@@ -21,6 +21,13 @@ My background includes 14+ years in analytics and business intelligence, includi
 **M-Command-Center:** Python project-recovery application with versioned contracts, validated persistence and an authenticated local read-only viewer. Architecture. Public demo is separate from the private Work Engine.
 
 **Missy_AI:**
+
+### Selected Technical Projects
+
+- **[StarrLabs](https://github.com/crisguzu/StarrLabs)** — Self-hosted game analytics with PostgreSQL historical schemas, point-in-time profile joins, bounded API collection and ownership-aware sharing. Includes source-backed architecture, fictional UI captures and focused verification; live provider delivery and production deployment are not certified.
+- **[M-Command-Center](https://github.com/crisguzu/M-Command-Center)** — Authenticated, local, read-only Python project recovery with versioned contracts, validated persistence and a synthetic demo. This public edition is not the private execution engine.
+
+These are personal engineering projects. Synthetic demonstrations and test results are not employer production workloads. See each repository's scope and verification notes.
 
 ### Connect
 
